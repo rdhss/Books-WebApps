@@ -15,7 +15,7 @@ Search Books
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/rdhss/BookWebApps.git
+   git clone https://github.com/rdhss/Books-WebApps.git
    ```
 2. Install NPM packages (server)
    
@@ -42,7 +42,7 @@ Search Books
    npm install
    ```
 
-5. Install Application
+5. Run Application
    
     ```sh
    cd client
