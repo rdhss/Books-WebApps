@@ -1,0 +1,37 @@
+.card-main{
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: rgba(128, 128, 128, 0.103);
+    width: 180px;
+    height: 350px;
+    overflow: hidden;
+    position: relative;
+}
+
+.card-image{
+    width: 180px;
+    height: 250px;
+}
+
+.bookmark{
+    left: 10px;
+    top: 10px;
+    cursor: pointer;
+}
+
+.icon{
+    transform: scale(0.8);
+}
+
+.title{
+    display: inline;
+    margin-top: 10px;
+    font-size: 17px;
+    width: 180px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.title:hover{
+    color: rgba(0, 0, 255, 0.507)
+}
